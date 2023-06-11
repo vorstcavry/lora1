@@ -1,0 +1,378 @@
+{
+  "id": 52974,
+  "modelId": 48363,
+  "name": "v2.0",
+  "createdAt": "2023-04-23T05:53:25.301Z",
+  "updatedAt": "2023-04-23T05:59:38.678Z",
+  "trainedWords": [],
+  "baseModel": "SD 1.5",
+  "earlyAccessTimeFrame": 0,
+  "description": null,
+  "stats": {
+    "downloadCount": 14452,
+    "ratingCount": 9,
+    "rating": 5
+  },
+  "files": [
+    {
+      "name": "taiwanDollLikeness_v20.safetensors",
+      "id": 38528,
+      "sizeKB": 147567.2177734375,
+      "type": "Model",
+      "metadata": {
+        "fp": null,
+        "size": null,
+        "format": "SafeTensor"
+      },
+      "pickleScanResult": "Success",
+      "pickleScanMessage": "No Pickle imports",
+      "virusScanResult": "Success",
+      "scannedAt": "2023-04-23T05:56:33.838Z",
+      "hashes": {
+        "AutoV1": "364A8734",
+        "AutoV2": "BD17B1BF1B",
+        "SHA256": "BD17B1BF1B061779797B892D176EEFB55D976F81638DBC048F4E5FD7CCB63B4F",
+        "CRC32": "C9F458F5",
+        "BLAKE3": "9EB70E121E6B56D3FDA7D4DC2CDA2B7432E19468F0E23356AA062B5639FE7294"
+      },
+      "downloadUrl": "https://civitai.com/api/download/models/52974",
+      "primary": true
+    }
+  ],
+  "images": [
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cb7842fc-23b4-4583-fa00-69eb9f318600/width=450/571716.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UFJ7t4xa00s:00?Hx^Rj9ZW.?ajv~qRO4nRP",
+      "meta": {
+        "Size": "512x768",
+        "seed": 4085955551,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, white camisole, busty, huge breasts, (brown long hair:1), (looking at viewer), (full body), (closeup)  <lora:taiwanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "taiwanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, glossy skin, wet, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.5"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1e2a0b9e-fc6f-4e59-292d-c6726cee5600/width=450/571718.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UIKT-@OrXTD%5P9F?]D%D*IUNFwb~pt7D+%M",
+      "meta": {
+        "Size": "512x768",
+        "seed": 3421732881,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, white camisole, busty, huge breasts, (brown long hair:1), (looking at viewer), (full body), (closeup)  <lora:taiwanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "taiwanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, glossy skin, wet, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.5"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/28bc8078-9e73-4666-0d26-260137055b00/width=450/571719.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UWGIDs_4b_?HI:%2kXWBE1Io$*ofNGs:ofR*",
+      "meta": {
+        "Size": "512x768",
+        "seed": 3819551797,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder black shirt, skirt, black choker, (faded ash gray hair:1), (huge breasts:1.2), looking at viewer, closeup <lora:taiwanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "taiwanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f2a21179-def2-42c9-7ffc-08b3d7373a00/width=450/571720.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UBEVED9a00%M9Z%M9t-V00R%~BRjX5xujFE1",
+      "meta": {
+        "Size": "512x768",
+        "seed": 410593910,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder black shirt, skirt, black choker, (faded ash gray hair:1), (huge breasts:1.2), looking at viewer, closeup <lora:taiwanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "taiwanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/770c854d-f5bd-4e4e-5aa3-6b6171e20000/width=450/571722.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UCJaDs-;02$l00%f_24:_N%2IAE2$x$*%MIp",
+      "meta": {
+        "Size": "512x768",
+        "seed": 1443061741,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, white camisole, busty, huge breasts, (brown long hair:1), (looking at viewer), (full body), (closeup) <lora:taiwanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "taiwanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, glossy skin, wet, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.5"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5a9055c1-b89e-44c3-f1fb-aec20aef3b00/width=450/571724.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "ULKKA#R%JCbD9an#~qRj-oxuMxxZtQx[MxW=",
+      "meta": {
+        "Size": "512x768",
+        "seed": 2113330000,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, white camisole, busty, huge breasts, (brown long hair:1), (looking at viewer), (full body), (closeup) <lora:taiwanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "taiwanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, glossy skin, wet, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.5"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5552c107-420c-4436-7512-e5b808c73e00/width=450/571729.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UHF~gh-o01E+H=NINx%100IoxtxY_N%LVsIV",
+      "meta": {
+        "Size": "512x768",
+        "seed": 3588905076,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), masterpiece, real life skin, hyper real, 1girl, faded ash grey hair, sweater, loose jacket, (large breasts:1), (busty:1), looking at viewer <lora:taiwanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "taiwanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, shiny skin, wet, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.5"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f99b49be-c608-4752-8ef7-407cd4ff2700/width=450/571730.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UAH21b00BW00~p0JEjE100IUNet8_3-;9FV@",
+      "meta": {
+        "Size": "512x768",
+        "seed": 3687410304,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), masterpiece, 1girl, faded ash grey hair, black sheer mesh turtleneck sweater, bare shoulders, (large breasts:1), (busty:1), looking at viewer <lora:taiwanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "taiwanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, shiny skin, wet, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.5"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f11df208-fb2c-490a-9d06-497e047f8a00/width=450/571731.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UDFE$I9t00-o0L=|ofof01E2~VIo57t6xFxu",
+      "meta": {
+        "Size": "512x768",
+        "seed": 289411898,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, black off-shoulder shirt, seductive pose, simple background,  cleavage, busty, choker, huge breasts, messy bun, looking at viewer, <lora:taiwanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "taiwanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, nsfw, nipples",
+        "Denoising strength": "0.45"
+      }
+    }
+  ],
+  "downloadUrl": "https://civitai.com/api/download/models/52974"
+}

@@ -1,0 +1,341 @@
+{
+  "id": 31284,
+  "modelId": 26124,
+  "name": "v2.0",
+  "createdAt": "2023-03-29T13:32:34.622Z",
+  "updatedAt": "2023-03-29T13:39:19.104Z",
+  "trainedWords": [],
+  "baseModel": "SD 1.5",
+  "earlyAccessTimeFrame": 0,
+  "description": null,
+  "stats": {
+    "downloadCount": 69794,
+    "ratingCount": 66,
+    "rating": 4.91
+  },
+  "files": [
+    {
+      "name": "koreanDollLikeness.safetensors",
+      "id": 25807,
+      "sizeKB": 147567.2177734375,
+      "type": "Model",
+      "metadata": {
+        "fp": "fp16",
+        "size": "full",
+        "format": "SafeTensor"
+      },
+      "pickleScanResult": "Success",
+      "pickleScanMessage": "No Pickle imports",
+      "virusScanResult": "Success",
+      "scannedAt": "2023-03-29T13:36:20.314Z",
+      "hashes": {
+        "AutoV1": "49B5BCBF",
+        "AutoV2": "00483A2A78",
+        "SHA256": "00483A2A78CEC31880128EC2DA827349EBAACCD7D2D1D35836BAEBECF006D983",
+        "CRC32": "1C694270",
+        "BLAKE3": "324851A36ABAD7ADE9FADFC7AE40FA098CD3D84F453118442AD953F850802157"
+      },
+      "downloadUrl": "https://civitai.com/api/download/models/31284",
+      "primary": true
+    }
+  ],
+  "images": [
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/204fdfc2-d26c-4063-1315-66c4f5020500/width=450/355883.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "U6IEqr_3009FK5#6px9x0101~BwG9E=_rXoh",
+      "meta": {
+        "Size": "512x768",
+        "seed": 3397800074,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder white shirt, black tight skirt, black choker, (faded ash gray hair:1), (huge breasts:1.2), looking at viewer, closeup <lora:koreanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "koreanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2231af5c-b946-40f4-00cf-bb6d0676b600/width=450/355890.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "U7F=XJ^+00IAZ|E1Ott8MxWVIoxt?^WB00WB",
+      "meta": {
+        "Size": "512x768",
+        "seed": 2567916389,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder white shirt, black tight skirt, black choker, (faded ash gray hair:1), (huge breasts:1.2), looking at viewer, closeup <lora:koreanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "koreanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/af721a21-b385-478d-c19c-3571feeb3700/width=450/355889.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UBH1[70001-V00_ND%~V0hsl={Rj~URO-;IV",
+      "meta": {
+        "Size": "512x768",
+        "seed": 1273009861,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder sweate, smiling, (faded ash gray messy bun hair:1), border light, depth of field, (large breasts:1.2), looking at viewer, closeup <lora:koreanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "koreanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/95d65be0-aced-49da-a3e9-ccbe1f2af500/width=450/355888.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "U9Jthtq[2]0#|m00X,Ir0gpI]h=v-4?GIW?a",
+      "meta": {
+        "Size": "512x768",
+        "seed": 1765035014,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder sweate, smiling, (faded ash gray messy bun hair:1), border light, depth of field, (large breasts:1.2), looking at viewer, closeup <lora:koreanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "koreanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/84ba1e56-acd0-419a-0fe6-dcde5632f100/width=450/355887.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UHHBVoxY01R.00bcS$-U4:of_2xa~qRj4ot6",
+      "meta": {
+        "Size": "512x768",
+        "seed": 1709512138,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder white shirt, black tight skirt, black choker, (messy bun:1), (large breasts:1.2), looking at viewer, closeup <lora:koreanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "koreanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/abc8b94a-e077-49cc-167f-65a0ac699f00/width=450/355886.jpeg",
+      "nsfw": "X",
+      "width": 896,
+      "height": 1344,
+      "hash": "UCI}6EH?O:9a?a9aI;0LRO?H~At6E19aD*oL",
+      "meta": {
+        "Size": "512x768",
+        "seed": 93858329,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder white shirt, black tight skirt, black choker, (faded ash gray messy bun:1), faded ash gray hair, (large breasts:1.2), looking at viewer, closeup <lora:koreanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "koreanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec409904-d1c3-4fa9-316b-0a6db60d2700/width=450/355885.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UKK^T#9FK%ae00W;-;$%_Nt7-pkWI9-:%2IU",
+      "meta": {
+        "Size": "512x768",
+        "seed": 1607836028,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, white elegant dress, (brown hair:1), (large breasts:1.2), 100mm border light, looking at viewer, closeup <lora:koreanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "koreanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d1095ede-1bbf-4abe-29f0-e4bf042d4600/width=450/355884.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UDJQTOxV0L~B00?GNFS5.m%1xv564nIp={t6",
+      "meta": {
+        "Size": "512x768",
+        "seed": 2110300267,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, white elegant dress, (brown hair:1), (large breasts:1.2), 50mm eye light, looking at viewer, closeup <lora:koreanDollLikeness_v20:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "koreanDollLikeness_v20",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    }
+  ],
+  "downloadUrl": "https://civitai.com/api/download/models/31284"
+}

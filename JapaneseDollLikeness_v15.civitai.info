@@ -1,0 +1,415 @@
+{
+  "id": 34562,
+  "modelId": 28811,
+  "name": "v1.5",
+  "createdAt": "2023-04-03T17:14:56.374Z",
+  "updatedAt": "2023-04-03T17:25:28.720Z",
+  "trainedWords": [],
+  "baseModel": "SD 1.5",
+  "earlyAccessTimeFrame": 0,
+  "description": null,
+  "stats": {
+    "downloadCount": 43016,
+    "ratingCount": 16,
+    "rating": 4.69
+  },
+  "files": [
+    {
+      "name": "JapaneseDollLikeness_v15.safetensors",
+      "id": 28382,
+      "sizeKB": 147567.2177734375,
+      "type": "Model",
+      "metadata": {
+        "fp": "fp16",
+        "size": "full",
+        "format": "SafeTensor"
+      },
+      "pickleScanResult": "Success",
+      "pickleScanMessage": "No Pickle imports",
+      "virusScanResult": "Success",
+      "scannedAt": "2023-04-03T17:21:23.557Z",
+      "hashes": {
+        "AutoV1": "73777B55",
+        "AutoV2": "ED2AFDB55E",
+        "SHA256": "ED2AFDB55E6910169C7494F37DE2CF59075C760E5EEE8CE0705AFF82A26CF108",
+        "CRC32": "5422743F",
+        "BLAKE3": "03883D55FA2FD0D21904286CDB839B59CE720DED42399A8BAA06F82BB051429E"
+      },
+      "downloadUrl": "https://civitai.com/api/download/models/34562",
+      "primary": true
+    }
+  ],
+  "images": [
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/42bb3051-7e2c-49fa-88b4-61e624b24f00/width=450/394771.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UHI}R~-3X.4:s7-;?bRkE2ogRPoz~VRjM|Ip",
+      "meta": {
+        "Size": "512x768",
+        "seed": 1285008643,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder white shirt, black tight skirt, black choker, (faded ash gray hair:1), (huge breasts:1.2), looking at viewer, closeup <lora:JDLv15:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "JDLv15",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a63a41b1-5c3b-4d8f-5aa4-aeec3e206d00/width=450/394780.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UDH_Mbxa.70L~VtS~V0L9ZRP%1-VoHRijcM{",
+      "meta": {
+        "Size": "512x768",
+        "seed": 2812745056,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder dress, black skirt, black choker, (faded ash gray hair:1), (huge breasts:1.2), looking at viewer, closeup <lora:JDLv15:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "JDLv15",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/24c7e82c-2bfb-43da-e20b-f29539a9b500/width=450/394779.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UAG[1d010z~U$ysoNZR*00?G?HM{%gkC-V9a",
+      "meta": {
+        "Size": "512x768",
+        "seed": 817402832,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), masterpiece, 1girl, black night gown, on bed, seductive pose, (huge breasts:1.2), (busty:1), looking at viewer <lora:JDLv15:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "JDLv15",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, glossy skin, wet, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6ab2faa5-aa12-4ac9-dbcf-2b9664084900/width=450/394778.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UGHULL?G0e%1V?xu?Hxt9FE1={xt~VIVD%R*",
+      "meta": {
+        "Size": "512x768",
+        "seed": 909324680,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), masterpiece, 1girl, black off-shoulder shirt, posing, cleavage, (huge breasts:1.2), (busty:1), looking at viewer <lora:JDLv15:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "JDLv15",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, glossy skin, wet, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0f773efe-464d-434d-8f92-462809e05d00/width=450/394777.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UCF#]*bb0Lxu00NG00t69G%2~WE10Lay?axa",
+      "meta": {
+        "Size": "512x768",
+        "seed": 2116617370,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder dress, black skirt, studio background, (faded ash gray hair:1.2), (huge breasts:1.2), looking at viewer, closeup <lora:JDLv15:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "JDLv15",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a7b5429c-8aec-4e04-4529-59773ad86900/width=450/394776.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UBF$31yY00$y~q_3x]M{01%L~WIp9Z%1-pE2",
+      "meta": {
+        "Size": "512x768",
+        "seed": 935424399,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, off-shoulder black dress, black skirt, studio background, (faded ash gray hair:1.2), (huge breasts:1.2), looking at viewer, closeup <lora:JDLv15:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "JDLv15",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ceebd6de-3149-4f02-1802-3315c955e200/width=450/394775.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "USH-.Anj4.%200IVtRRj0LRk-ot7~qxtIUWB",
+      "meta": {
+        "Size": "512x768",
+        "seed": 2016965918,
+        "Model": "Chilled_re_generic_v2",
+        "steps": 28,
+        "hashes": {
+          "model": "523b280d1c"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, oversized and loose off-shoulder white shirt, black skirt, cowboy shot, black choker, (brown hair:1), (huge breasts:1.2), looking at viewer, closeup <lora:JDLv15:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "JDLv15",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "523b280d1c",
+            "name": "Chilled_re_generic_v2",
+            "type": "model"
+          }
+        ],
+        "Model hash": "523b280d1c",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8d86a2b1-4632-49cb-f6ca-e00127837a00/width=450/394774.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UEGa?_H=.6~V?uD$9uR+NaaesoM{?G%LV[%2",
+      "meta": {
+        "Size": "512x768",
+        "seed": 3745507205,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, sleeveless turtleneck, (busty), ((huge breasts)), large breasts, (brown long hair:1.3), (looking at viewer), (full body), (closeup) <lora:JDLv15:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "JDLv15",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, glossy skin, wet, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/33ad17bd-eec8-427f-dcff-d8212de1aa00/width=450/394773.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "UFKApI015QDi00IU?^nh%#xZMxt7~qR+DjR*",
+      "meta": {
+        "Size": "512x768",
+        "seed": 2160727401,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high res, (photorealistic:1.4), 1girl, white button shirt, bare shoulders, (busty), ((huge breasts)), large breasts, (brown long hair:1.3), (looking at viewer), (closeup) <lora:JDLv15:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "JDLv15",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, glossy skin, wet, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.45"
+      }
+    },
+    {
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4bc9dbb4-2e30-48c3-b44a-a0afc554a800/width=450/394772.jpeg",
+      "nsfw": "Soft",
+      "width": 896,
+      "height": 1344,
+      "hash": "ULJtSI?HEMt74oM|?aNH0eIp%LWq~qNaIVbF",
+      "meta": {
+        "Size": "512x768",
+        "seed": 3433215086,
+        "Model": "chilloutmix_cilloutmixNi",
+        "steps": 28,
+        "hashes": {
+          "model": "7234b76e42"
+        },
+        "prompt": "best quality, ultra high resolution, high resolution, (photorealistic:1.4), masterpiece, 1girl, baggy and loose camisole, lazy and messy, (huge breasts:1.2), (busty:1.1), looking at viewer <lora:JDLv15:0.66>",
+        "sampler": "DPM++ SDE Karras",
+        "cfgScale": 8,
+        "resources": [
+          {
+            "name": "JDLv15",
+            "type": "lora",
+            "weight": 0.66
+          },
+          {
+            "hash": "7234b76e42",
+            "name": "chilloutmix_cilloutmixNi",
+            "type": "model"
+          }
+        ],
+        "Model hash": "7234b76e42",
+        "Hires steps": "20",
+        "Hires upscale": "1.75",
+        "Hires upscaler": "Latent (bicubic antialiased)",
+        "negativePrompt": "paintings, glossy skin, wet, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans",
+        "Denoising strength": "0.45"
+      }
+    }
+  ],
+  "downloadUrl": "https://civitai.com/api/download/models/34562"
+}
